@@ -1,7 +1,7 @@
  Oleti Raghu Sai Varun – Portfolio
 
 🎓 Final Year B.Tech – Artificial Intelligence and Machine Learning  
-📧 me.rsv2907@outlook.com  
+📧 raghusaivaruno@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/oletiraghusaivarun)  
 💻 [GitHub](https://github.com/RaghuVarun07)  
 📄 [Resume (PDF)](./RSV_RESUME.pdf)
